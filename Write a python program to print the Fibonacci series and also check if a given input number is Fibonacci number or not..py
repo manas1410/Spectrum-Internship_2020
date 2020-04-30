@@ -1,7 +1,7 @@
 #Write a python program to print the Fibonacci series and also check if a given input number is Fibonacci number or not.
 import math#importing the math function
 
-n=int(input("Enter the Range Number:"))#stores the range of fibonacci series
+n=int(input("Enter the Number of terms of Fibonacci:"))#stores the range of fibonacci series
 a=0#stores the 1st element of fibonacci series
 b=1#stores the 2nd element of fibonacci series
 c=0# c used as temporary variable
